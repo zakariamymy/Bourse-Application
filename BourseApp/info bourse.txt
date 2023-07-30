@@ -1,0 +1,36 @@
+https://financialmodelingprep.com/api/v3/financial-statement-full-as-reported/AAPL?apikey=f85e2e526992a57a2113010f1c0efe
+
+
+
+
+
+
+
+http://gateway.euronext.com/api/instrumentDetail?code=XS2096663914&exchCode=XPAR&view=FULL&sessionQuality=DT&authKey=f85e2e526992a57a2113010f1c0efe
+
+
+
+
+
+
+
+
+
+3XQ72XFIB9VXVQMF
+
+
+https://www.alphavantage.co/query?function=OVERVIEW&symbol=IBM&apikey=demo
+
+
+
+https://www.alphavantage.co/query?function=OVERVIEW&symbol=IBM&apikey=3XQ72XFIB9VXVQMF
+
+
+
+var symbols = [
+  "AAPL", "MSFT", "AMZN", "GOOGL", "FB", "TSLA", "JPM", "BAC", "WMT", "V",
+  "PG", "JNJ", "UNH", "MA", "NVDA", "HD", "DIS", "PYPL", "VZ", "INTC",
+  "ADBE", "CRM", "CMCSA", "PFE", "KO", "NFLX", "MRK", "T", "CSCO", "ABBV",
+  "XOM", "COST", "BA", "MCD", "PEP", "ABT", "TMO", "PM", "CVS", "NKE",
+  "AMD", "IBM", "WFC", "ORCL", "SPOT", "MMM", "GS", "AMGN", "GE", "CAT"
+];
