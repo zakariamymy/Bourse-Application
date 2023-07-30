@@ -1,2 +1,2 @@
-# WeatherApp
-Développement d'une application mobile météo utilisant le Framework React Native et API pour offrir une expérience utilisateur intuitive et réactive.
+# BourseApp
+Développement d'une application mobile de suivi des marchés financiers utilisant React Native et des API financières pour fournir des informations actualisées sur les cours des actions, les indices boursiers, etc.
